@@ -1,0 +1,112 @@
+.nav-item{
+	color: red;
+}
+ h2,h1{
+ 	color: white;
+ 	
+ 	font-family:Times New Roman;
+ 	background-color: #e3f2fd;
+ 	margin-bottom: auto;
+ 	padding-bottom: 10px;
+ 	border: 1px ;
+ 	border-style: dotted; 
+ 	background-color: green;
+
+
+ }
+ 
+ .nav-link{
+ 	color: white!important;
+ 	align-content: center !important;
+ 	font-family: Times New Roman;
+ 	font-size: 25px !important;
+ 	text-align: center !important;
+ 	background-color: green;
+
+
+
+ }
+ .fa-phone-square,.fa-home,.fa-flask{
+	font-size: 25px !important;
+	
+}
+.dropdown-item{
+	color: green !important;
+	font-family: Times New Roman;
+}
+
+.form-inline,.btn{
+	text-align: right !important;
+	align-items: right !important;
+	align-content: right !important;
+	color: white;
+}
+.navbar{
+	text-align: center !important;
+	background-color: green !important;
+}
+.fa-facebook-square{
+	text-align: right !important;
+}
+.page-footer{
+	background-color: #e3f2fd !important;
+}
+.fa-facebook-square,.fa-instagram,.fa-linkedin-square,.fa-twitter-square{
+	font-size:30px !important;
+	padding: 2px;
+	color: white;
+	
+}
+ 
+ h5{
+ 	color: white;
+ 	
+ 	font-family:Times New Roman; 
+ 	padding: 3px;
+ 	font-size: 25px;
+ 	margin-bottom: 2px !important;
+ 	margin: auto;
+ 	text-align: left;
+ 	background-color: green;
+ }
+ .fa-facebook-square,.fa-instagram,.fa-linkedin-square,.fa-twitter-square,.list-unstyled{
+align-content: center !important;
+text-align: right;
+font-size: 20px;
+size: 20px !important;
+padding: 10px;
+
+
+ }
+p{
+	font-size: 17px;
+	margin-top: 2px !important;
+	padding-top: 5px;
+	font-family: calibri;
+	background-color: green;
+	color: white;
+}
+h3{
+color: white;
+ 	
+ 	font-family:Times New Roman;
+ 	background-color: #e3f2fd;
+ 	margin-bottom: auto;
+ 	padding-bottom: 10px;
+ 	text-align: center;
+ 	background-color: green;
+ 	margin-top: 1px;
+
+}
+#p1{
+
+	padding: 5px !important;
+
+}
+.page-footer{
+  
+	background-color: green !important;
+}
+a:hover{
+	color: red !important;
+}
